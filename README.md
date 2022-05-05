@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there🤓
  🔭 I’m a second year computer science student currently interested in Flutter and Javascript...
  I'm very passionate about solving problems using technology as a tool.
 <!--
