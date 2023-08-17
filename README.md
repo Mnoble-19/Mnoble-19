@@ -1,5 +1,5 @@
 ### Hi there🤓
- 🔭 I’m a third year computer science student currently working as a mobile developer in Flutter...
+ 🔭 I’m a third year computer science student...
  
  I'm very passionate about solving problems in the African context using technology as a tool.
  
