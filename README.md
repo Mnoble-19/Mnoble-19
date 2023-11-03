@@ -1,5 +1,5 @@
 ### Hi there🤓
- 🔭 I’m a third year computer science student...
+ 🔭 Bachelor's of computer science granduand...
  
  I'm very passionate about solving problems in the African context using technology as a tool.
  
