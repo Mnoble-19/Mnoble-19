@@ -1,9 +1,15 @@
 ### Hi there🤓
  🔭 Bachelor's of computer science granduand...
+
+ Highly motivated, open to learning and new challenges
  
- I'm very passionate about solving problems in the African context using technology as a tool.
- 
- My favourite technology currently is Artificial Intelligence🤖, Machine learning to be exact.
+ Current tools:
+ - Python
+ - Pandas
+ - Apache airflow
+ - Kubernetes
+ - Flask
+ - Docker
 <!--
 **Mnoble-19/Mnoble-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
