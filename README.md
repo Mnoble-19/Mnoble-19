@@ -1,4 +1,4 @@
-### Hi there🤓
+### Hi there, I'm Noble Mutabazi🤓
  🔭 Bachelor's of computer science granduand...
 
  Highly motivated, open to learning and new challenges
