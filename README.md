@@ -1,10 +1,10 @@
 ### Hi there, I'm Noble Mutabazi🤓
- 🔭 Bachelor's of computer science granduand...
+ 🔭 Bachelor's of computer science granduand looking to grow as an MLOps Engineer
 
- Highly motivated, open to learning and new challenges
+ Highly motivated, open to learning
  
  Current tools:
- - Python
+ - Python 
  - Pandas
  - Apache airflow
  - Kubernetes
