@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I am a graduand of computer science at Makerere University, Kampala. <br>- I have spent the last 2 years as a data science intern at AirQo. project<br>- I mostly work in MLOps tasks. <br>- Tools are: <br> * Python<br>* Apache Airflow<br>* Docker<br>* Kubernetes<br>* Pandas<br>* Flask<br>* GCP
+- I am a Machine Learning Engineer at AirQo. project<br>- My areas of interest are Machine Learning, DevOps & Data Engineering. <br>- Tools are: <br> * Python<br>* Apache Airflow<br>* Docker<br>* Kubernetes<br>* Pandas<br>* Flask<br>* GCP
 
 
 ## 🌐 Socials:
