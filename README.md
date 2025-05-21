@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I am a Machine Learning Engineer at AirQo. project<br>- My areas of interest are Machine Learning, DevOps & Data Engineering. <br>- Tools are: <br> * Python<br>* Apache Airflow<br>* Docker<br>* Kubernetes<br>* Pandas<br>* Flask<br>* GCP
+- I am a software engineer with 3 years of experience.<br>- My areas of interest are Full stack development,  Machine Learning, DevOps & Data Engineering. <br>- Tools are: <br> * Python<br>* Apache Airflow<br>* Docker<br>* Kubernetes<br>* Pandas<br>* Flask<br>* GCP
 
 
 ## 🌐 Socials:
